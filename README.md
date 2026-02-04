@@ -56,7 +56,7 @@ Bu projenin temel amaçları şunlardır:
 
 Arduino, nem sensörü ve röle bağlantılarını gösteren devre şeması aşağıda yer almaktadır:
 
-![Devre Şeması](images/1-devre%20bağlantı%20şemasi.png)
+![Devre Şeması](images/1-devreBaglantıSeması.png)
 
 ---
 
@@ -65,7 +65,7 @@ Arduino, nem sensörü ve röle bağlantılarını gösteren devre şeması aşa
 Sulama işlemi sürekli değil, **kontrollü ve kesikli** şekilde yapılır.  
 Bu yöntem, hem su tasarrufu sağlar hem de toprağın aşırı sulanmasını önler.
 
-![Kesikli Su Algoritması](images/2-kesikli%20su%20algoritmasi.png)
+![Kesikli Su Algoritması](images/2-kesikliSuAlgoritması.png)
 
 ---
 
@@ -73,7 +73,7 @@ Bu yöntem, hem su tasarrufu sağlar hem de toprağın aşırı sulanmasını ö
 
 Aşağıda sistemin fiziksel olarak kurulmuş ve çalışmaya hazır hali görülmektedir:
 
-![Projenin Kurulu Hali](images/3-projenin%20kurulu%20hali.png)
+![Projenin Kurulu Hali](images/3-ProjeninKuruluHali.png)
 
 ---
 
@@ -93,6 +93,6 @@ Arduino IDE üzerinde yazılan kodlar ile:
 * Röle kontrol edilir
 * Sulama kararları alınır
 
-![Arduino IDE Kod Takibi](images/5-ardunioidenemtakibi.png)
+![Arduino IDE Kod Takibi](images/5-ArdunioDenemeTakibi.png)
 
 
