@@ -81,7 +81,7 @@ Aşağıda sistemin fiziksel olarak kurulmuş ve çalışmaya hazır hali görü
 
 Sistem, toprak nem durumunu **anlık olarak ölçer** ve Arduino üzerinden sürekli takip eder.
 
-![Anlık Nem Takibi](images/4-anliknemtakibi.png)
+![Anlık Nem Takibi](images/4-AnlikNemTakibi.png)
 
 ---
 
